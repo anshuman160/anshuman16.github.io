@@ -1,6 +1,6 @@
 # anshuman16.github.io 
 <h1 align="center">Hi 👋, I'm Anshuman Yadav</h1>
-<h3 align="center">A junior year Comp Sci student from India</h3>
+<h3 align="center">A senior year Comp Sci student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman160&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman160" /> </p>
 
